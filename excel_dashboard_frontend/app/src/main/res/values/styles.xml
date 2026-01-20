@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.ExcelDashboard" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorBackground">@color/vd_background</item>
+        <item name="android:statusBarColor">@color/vd_primary</item>
+        <item name="android:navigationBarColor">@color/vd_background</item>
+        <item name="android:textColorPrimary">@color/vd_text</item>
+        <item name="android:textColorSecondary">@color/vd_text_muted</item>
+    </style>
+</resources>

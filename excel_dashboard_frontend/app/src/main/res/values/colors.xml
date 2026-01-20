@@ -1,0 +1,15 @@
+<resources>
+    <!-- Violet Dreams -->
+    <color name="vd_primary">#7C3AED</color>
+    <color name="vd_secondary">#0D9488</color>
+    <color name="vd_error">#EF4444</color>
+
+    <color name="vd_background">#F9FAFB</color>
+    <color name="vd_surface">#FFFFFF</color>
+
+    <color name="vd_text">#111827</color>
+    <color name="vd_text_muted">#6B7280</color>
+
+    <color name="vd_border">#E5E7EB</color>
+    <color name="vd_cell_alt">#F3F4F6</color>
+</resources>

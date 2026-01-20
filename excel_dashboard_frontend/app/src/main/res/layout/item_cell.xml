@@ -1,0 +1,10 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cellText"
+    android:layout_width="96dp"
+    android:layout_height="48dp"
+    android:background="@drawable/bg_cell"
+    android:gravity="center_vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:textColor="@color/vd_text"
+    android:textSize="12sp" />

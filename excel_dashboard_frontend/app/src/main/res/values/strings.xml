@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Excel Dashboard</string>
+
+    <string name="title_dashboard">Excel Dashboard</string>
+    <string name="subtitle_upload">Upload one or more .xlsx files to start exploring and transforming your data.</string>
+    <string name="action_pick_xlsx">Pick .xlsx</string>
+    <string name="status_no_file">No files selected.</string>
+
+    <string name="label_sheet">Sheet</string>
+    <string name="hint_grid">Tip: Tap a cell to edit. Your changes are kept in memory.</string>
+
+    <string name="title_prompt">Prompt</string>
+    <string name="prompt_help">Examples: count rows • stats column Age • rename column Old to New • merge columns First,Last into FullName • filter where Status = Active</string>
+    <string name="log_ready">Ready. Import an Excel file, then run a command.</string>
+    <string name="hint_command">Type a command…</string>
+    <string name="action_run">Run</string>
+</resources>
