@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="56dp"
+    android:viewportWidth="56"
+    android:viewportHeight="56">
+
+    <!-- Outer rounded square -->
+    <path
+        android:fillColor="@color/vd_primary"
+        android:pathData="M16,6 h24 a10,10 0 0 1 10,10 v24 a10,10 0 0 1 -10,10 h-24 a10,10 0 0 1 -10,-10 v-24 a10,10 0 0 1 10,-10 z" />
+
+    <!-- Simple grid mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.95"
+        android:pathData="M18,18 h20 v20 h-20 z" />
+
+    <path
+        android:fillColor="@color/vd_secondary"
+        android:fillAlpha="0.35"
+        android:pathData="M18,24 h20 v2 h-20 z M18,30 h20 v2 h-20 z M24,18 v20 h2 v-20 z M30,18 v20 h2 v-20 z" />
+</vector>

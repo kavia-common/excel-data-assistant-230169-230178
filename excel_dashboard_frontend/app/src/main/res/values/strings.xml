@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Excel Dashboard</string>
 
+    <!-- Home -->
+    <string name="home_title">Excel Data Assistant</string>
+    <string name="home_subtitle">Upload and explore .xlsx files, edit sheets, and run quick commands to transform your data.</string>
+    <string name="home_get_started">Get Started</string>
+    <string name="home_logo_cd">App logo</string>
+
+    <!-- Dashboard -->
     <string name="title_dashboard">Excel Dashboard</string>
     <string name="subtitle_upload">Upload one or more .xlsx files to start exploring and transforming your data.</string>
     <string name="action_pick_xlsx">Pick .xlsx</string>
