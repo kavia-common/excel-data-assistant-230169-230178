@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+
+    <!-- Soft background blob -->
+    <path
+        android:fillColor="@color/vd_primary"
+        android:fillAlpha="0.10"
+        android:pathData="M38,56 C64,18 128,10 166,26 C204,42 216,54 254,56 C292,58 316,82 304,114 C292,146 246,170 188,168 C130,166 72,150 46,124 C20,98 12,78 38,56 Z" />
+
+    <!-- Card -->
+    <path
+        android:fillColor="@color/vd_surface"
+        android:pathData="M74,52 h172 a14,14 0 0 1 14,14 v70 a14,14 0 0 1 -14,14 h-172 a14,14 0 0 1 -14,-14 v-70 a14,14 0 0 1 14,-14 z" />
+    <path
+        android:fillColor="@color/vd_border"
+        android:fillAlpha="0.85"
+        android:pathData="M74,52 h172 a14,14 0 0 1 14,14 v1 h-200 v-1 a14,14 0 0 1 14,-14 z" />
+
+    <!-- Small sheet/grid icon -->
+    <path
+        android:fillColor="@color/vd_primary"
+        android:fillAlpha="0.75"
+        android:pathData="M102,80 h70 v56 h-70 z" />
+    <path
+        android:fillColor="@color/vd_surface"
+        android:fillAlpha="0.9"
+        android:pathData="M108,86 h58 v44 h-58 z" />
+    <path
+        android:fillColor="@color/vd_secondary"
+        android:fillAlpha="0.35"
+        android:pathData="M108,96 h58 v3 h-58 z M108,108 h58 v3 h-58 z M128,86 v44 h3 v-44 z M140,86 v44 h3 v-44 z" />
+
+    <!-- Right-side prompt panel hint -->
+    <path
+        android:fillColor="@color/vd_secondary"
+        android:fillAlpha="0.14"
+        android:pathData="M186,80 h52 a10,10 0 0 1 10,10 v36 a10,10 0 0 1 -10,10 h-52 a10,10 0 0 1 -10,-10 v-36 a10,10 0 0 1 10,-10 z" />
+    <path
+        android:fillColor="@color/vd_text_muted"
+        android:fillAlpha="0.35"
+        android:pathData="M192,94 h42 v4 h-42 z M192,106 h32 v4 h-32 z M192,118 h38 v4 h-38 z" />
+</vector>

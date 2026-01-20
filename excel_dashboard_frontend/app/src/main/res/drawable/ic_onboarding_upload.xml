@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="220dp"
+    android:viewportWidth="320"
+    android:viewportHeight="220">
+
+    <path
+        android:fillColor="@color/vd_primary"
+        android:fillAlpha="0.10"
+        android:pathData="M50,64 C80,26 156,18 196,34 C236,50 256,66 278,94 C300,122 288,166 254,186 C220,206 168,208 118,196 C68,184 20,138 50,64 Z" />
+
+    <!-- Document -->
+    <path
+        android:fillColor="@color/vd_surface"
+        android:pathData="M110,58 h88 a14,14 0 0 1 14,14 v110 a14,14 0 0 1 -14,14 h-88 a14,14 0 0 1 -14,-14 v-110 a14,14 0 0 1 14,-14 z" />
+    <path
+        android:fillColor="@color/vd_border"
+        android:fillAlpha="0.9"
+        android:pathData="M110,58 h88 a14,14 0 0 1 14,14 v6 h-116 v-6 a14,14 0 0 1 14,-14 z" />
+
+    <!-- XLSX badge -->
+    <path
+        android:fillColor="@color/vd_secondary"
+        android:fillAlpha="0.85"
+        android:pathData="M124,92 h60 a10,10 0 0 1 10,10 v20 a10,10 0 0 1 -10,10 h-60 a10,10 0 0 1 -10,-10 v-20 a10,10 0 0 1 10,-10 z" />
+    <path
+        android:fillColor="@color/vd_surface"
+        android:fillAlpha="0.85"
+        android:pathData="M132,106 h44 v4 h-44 z M132,116 h28 v4 h-28 z" />
+
+    <!-- Up arrow -->
+    <path
+        android:fillColor="@color/vd_primary"
+        android:fillAlpha="0.75"
+        android:pathData="M154,140 l18,18 h-12 v20 h-12 v-20 h-12 z" />
+</vector>

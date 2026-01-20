@@ -6,6 +6,26 @@
     <string name="home_subtitle">Upload and explore .xlsx files, edit sheets, and run quick commands to transform your data.</string>
     <string name="home_get_started">Get Started</string>
     <string name="home_logo_cd">App logo</string>
+    <string name="home_illustration_cd">Illustration showing an Excel grid and command panel</string>
+    <string name="home_privacy_note">Your files stay on-device during this session.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_get_started">Get Started</string>
+
+    <string name="onboarding_title_upload">Upload Excel</string>
+    <string name="onboarding_body_upload">Pick one or more .xlsx files to load your sheets.</string>
+
+    <string name="onboarding_title_grid">View &amp; Edit Grid</string>
+    <string name="onboarding_body_grid">Tap cells to edit values. Changes are kept in memory.</string>
+
+    <string name="onboarding_title_commands">Use Right-panel Commands</string>
+    <string name="onboarding_body_commands">Run quick commands like rename, merge, stats, and filter.</string>
+
+    <string name="onboarding_dot_cd">Onboarding page %1$d of %2$d</string>
+    <string name="onboarding_illustration_generic_cd">Onboarding illustration</string>
+    <string name="onboarding_illustration_cd">Illustration for %1$s</string>
 
     <!-- Dashboard -->
     <string name="title_dashboard">Excel Dashboard</string>

@@ -13,5 +13,8 @@ androidApplication {
 
         // UI: classic Views spreadsheet grid
         implementation("androidx.recyclerview:recyclerview:1.3.2")
+
+        // Onboarding pager
+        implementation("androidx.viewpager2:viewpager2:1.1.0")
     }
 }

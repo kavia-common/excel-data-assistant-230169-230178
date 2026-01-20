@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="220dp"
+    android:viewportWidth="320"
+    android:viewportHeight="220">
+
+    <path
+        android:fillColor="@color/vd_primary"
+        android:fillAlpha="0.10"
+        android:pathData="M54,62 C78,30 126,20 170,32 C214,44 254,64 270,92 C286,120 284,154 262,178 C240,202 198,206 150,198 C102,190 30,150 54,62 Z" />
+
+    <!-- Prompt panel -->
+    <path
+        android:fillColor="@color/vd_surface"
+        android:pathData="M86,56 h148 a16,16 0 0 1 16,16 v92 a16,16 0 0 1 -16,16 h-148 a16,16 0 0 1 -16,-16 v-92 a16,16 0 0 1 16,-16 z" />
+    <path
+        android:fillColor="@color/vd_border"
+        android:fillAlpha="0.9"
+        android:pathData="M86,56 h148 a16,16 0 0 1 16,16 v8 h-180 v-8 a16,16 0 0 1 16,-16 z" />
+
+    <!-- Lines -->
+    <path
+        android:fillColor="@color/vd_text_muted"
+        android:fillAlpha="0.35"
+        android:pathData="M102,96 h120 v6 h-120 z M102,112 h94 v6 h-94 z M102,128 h110 v6 h-110 z" />
+
+    <!-- Command chip -->
+    <path
+        android:fillColor="@color/vd_secondary"
+        android:fillAlpha="0.85"
+        android:pathData="M102,146 h96 a12,12 0 0 1 12,12 v10 a12,12 0 0 1 -12,12 h-96 a12,12 0 0 1 -12,-12 v-10 a12,12 0 0 1 12,-12 z" />
+    <path
+        android:fillColor="@color/vd_surface"
+        android:fillAlpha="0.9"
+        android:pathData="M114,156 h64 v6 h-64 z" />
+
+    <!-- Cursor caret -->
+    <path
+        android:fillColor="@color/vd_surface"
+        android:fillAlpha="0.85"
+        android:pathData="M184,154 h4 v18 h-4 z" />
+</vector>

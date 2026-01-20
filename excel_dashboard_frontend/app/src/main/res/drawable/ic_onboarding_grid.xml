@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="220dp"
+    android:viewportWidth="320"
+    android:viewportHeight="220">
+
+    <path
+        android:fillColor="@color/vd_secondary"
+        android:fillAlpha="0.10"
+        android:pathData="M44,88 C66,40 132,24 182,36 C232,48 292,76 286,128 C280,180 222,204 166,198 C110,192 22,170 44,88 Z" />
+
+    <!-- Grid card -->
+    <path
+        android:fillColor="@color/vd_surface"
+        android:pathData="M74,54 h172 a16,16 0 0 1 16,16 v92 a16,16 0 0 1 -16,16 h-172 a16,16 0 0 1 -16,-16 v-92 a16,16 0 0 1 16,-16 z" />
+    <path
+        android:fillColor="@color/vd_border"
+        android:fillAlpha="0.9"
+        android:pathData="M74,54 h172 a16,16 0 0 1 16,16 v8 h-204 v-8 a16,16 0 0 1 16,-16 z" />
+
+    <!-- Grid cells -->
+    <path
+        android:fillColor="@color/vd_primary"
+        android:fillAlpha="0.18"
+        android:pathData="M88,92 h60 v18 h-60 z M88,116 h60 v18 h-60 z M88,140 h60 v18 h-60 z" />
+    <path
+        android:fillColor="@color/vd_primary"
+        android:fillAlpha="0.12"
+        android:pathData="M154,92 h92 v18 h-92 z M154,116 h92 v18 h-92 z M154,140 h92 v18 h-92 z" />
+
+    <path
+        android:fillColor="@color/vd_border"
+        android:fillAlpha="0.9"
+        android:pathData="M88,92 h158 v2 h-158 z M88,116 h158 v2 h-158 z M88,140 h158 v2 h-158 z M154,92 v66 h2 v-66 z" />
+</vector>
